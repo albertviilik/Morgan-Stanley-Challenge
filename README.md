@@ -1,5 +1,5 @@
 # MSTanks
-HackSoc hackathon challenge
+HackSoc hackathon challenge solution by Albert Viilik, Jess Xue, Chen Bo Calvin Zhang and Theodore Aaron-Obelley
 
 ## Description
 
